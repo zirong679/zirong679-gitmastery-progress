@@ -212,5 +212,14 @@
       "It seems like the commit from Jan 12 is still present in the commit history."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786866560.120318,
+    "completed_at": 1786866561.63461,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
